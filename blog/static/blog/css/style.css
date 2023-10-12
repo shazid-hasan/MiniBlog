@@ -1,0 +1,12 @@
+body{
+    background-color: rgba(99, 118, 194, 0.012);
+    color:rgb(23, 20, 209);
+    font-family: "Times New Roman", Times, serif;
+
+}
+.car-for-blog{
+    background-color: rgb(105, 151, 165);
+}
+.form-control{
+    background-color: rgba(54, 18, 107, 0.753) ;
+}
